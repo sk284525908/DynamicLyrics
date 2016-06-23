@@ -2,7 +2,7 @@
 =============
 
 ## Overview
-this is a fork from [**MartianZ**'s](https://github.com/MartianZ) Project [DynamicLyrics](https://github.com/MartianZ/DynamicLyrics)
+this is a fork from [**MartianZ**'s](https://github.com/MartianZ) Project [DynamicLyrics](https://github.com/MartianZ/DynamicLyrics).
 
 **DynamicLyrics**, free iTunes assistant designed for u.
 
